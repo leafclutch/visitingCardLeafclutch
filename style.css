@@ -246,7 +246,8 @@ img, svg { max-width: 100%; height: auto; display: block; }
   justify-content: center;
 }
 
-.svc__lottie lottie-player {
+.svc__lottie lottie-player,
+.svc__lottie dotlottie-player {
   width: 64px;
   height: 64px;
 }
